@@ -4,16 +4,17 @@ Cukup 1 masalah saja.
 
 ## IMPORTANT!
 Lakukan Fork repositori ini, bukan clone.
-
+a
 # Problem
-(tulis masalah disini)
+Banyak siswa yang masih memiliki sifat kurang baik sebagai pelajar (berbicara seenaknya tanpa melihat fakta sebenarnya 'nyinyir', berat melaksanakan kewajiban baik agama, hukum, tata tertib sekolah, berat melaksanakan disiplin, 'cabut', etc) sehingga kurang memberikan impact positif sebagai remaja
 
 # Solution
-(tulis solusi disini)
+Adanya sebuah web khusus sebagai pendekatan multidisiplin seperti buku saku siswa digital, seperti jadwal, absensi, reminder dan enterpreneurship yang bisa dipersonalisasi
 
 
 ## Author
-by (tulis nama kamu) 
+by Chloe Andriestia Khairafani/8I 
 
 
 cc: SMPN 1 Semarang
+
