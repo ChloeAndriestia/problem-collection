@@ -6,14 +6,14 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+Banyak siswa yang merasa berat melakukan tata tertib dan mengesampingkanya, sehingga berimbas kurangnya impact positive dari siswa tersebut.
 
 # Solution
-(tulis solusi disini)
+Web khusus sebagai pendekatan multidisiplin, berkonsep seperti "buku saku siswa digital" yang berisi jadwal, reminder, absensi, enterpreneurship yang bisa dipersonalisasi oleh siswa.
 
 
 ## Author
-by (tulis nama kamu) 
+by Chloe Andriestia Khairafani/8I
 
 
 cc: SMPN 1 Semarang
